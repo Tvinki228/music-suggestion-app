@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Coldplay",
+        "image": "https://variety.com/wp-content/uploads/2023/03/Coldplay-Music-Of-The-Spheres-Live-At-River-Plate.jpg?w=1000&h=564&crop=1",
+        "info": "A British band known for their atmospheric melodies and spectacular live shows.",
+        "social_media": "https://www.instagram.com/coldplay/"
+    },
+    {
+        "id": 2,
+        "name": "Imagine Dragons",
+        "image": "https://www.billboard.com/wp-content/uploads/2022/12/imagine-dragons-Press-Photo-Credit-Eric-Ray-Davidson-2022-billboard-1548.jpg",
+        "info": "An American pop-rock band famous for their energetic anthems and hits like 'Believer'.",
+        "social_media": "https://www.instagram.com/imaginedragons/"
+    },
+    {
+        "id": 3,
+        "name": "Adele",
+        "image": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/4666/live/ec7d6e30-692e-11ef-b24a-c989141bfa8a.jpg.webp",
+        "info": "A British singer-songwriter acclaimed for her powerful voice and emotional ballads.",
+        "social_media": "https://www.instagram.com/adele/"
+    },
+    {
+        "id": 4,
+        "name": "Taylor Swift",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWYwYzYzMjUtNWE0MS00NmJlLTljNGMtNzliYjg5NzQ1OWY5XkEyXkFqcGc@._V1_.jpg",
+        "info": "An American singer-songwriter known for her storytelling and evolution across music genres.",
+        "social_media": "https://www.instagram.com/taylorswift/"
+    },
+    {
+        "id": 5,
+        "name": "Ed Sheeran",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/640px-Ed_Sheeran-6886_%28cropped%29.jpg",
+        "info": "A British singer-songwriter renowned for his heartfelt lyrics and acoustic style.",
+        "social_media": "https://www.instagram.com/teddysphotos/"
+    },
+    {
+        "id": 6,
+        "name": "Beyoncé",
+        "image": "https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/personnalites/beyonce/42390447-3-fre-FR/Beyonce.jpg",
+        "info": "An American singer, songwriter, and actress celebrated as a global icon of pop and R&B.",
+        "social_media": "https://www.instagram.com/beyonce/"
+    },
+    {
+        "id": 7,
+        "name": "The Weeknd",
+        "image": "https://www.billboard.com/wp-content/uploads/2023/06/the-weeknd-may-2023-billboard-1548.jpg",
+        "info": "A Canadian artist known for his unique blend of R&B, pop, and electronic music.",
+        "social_media": "https://www.instagram.com/theweeknd/"
+    },
+    {
+        "id": 8,
+        "name": "Billie Eilish",
+        "image": "https://www.rollingstone.com/wp-content/uploads/2024/10/Billie-Eilish-Sustainability-Event.jpg?w=1581&h=1054&crop=1",
+        "info": "An American singer-songwriter celebrated for her ethereal voice and dark, introspective lyrics.",
+        "social_media": "https://www.instagram.com/billieeilish/"
+    },
+    {
+        "id": 9,
+        "name": "Drake",
+        "image": "https://media.newyorker.com/photos/66d0e1a0dbfcd564cf6b198b/master/w_2560%2Cc_limit/Brickner-Wood-Drake.jpg",
+        "info": "A Canadian rapper and singer, one of the best-selling music artists worldwide.",
+        "social_media": "https://www.instagram.com/champagnepapi/"
+    },
+    {
+        "id": 10,
+        "name": "Ariana Grande",
+        "image": "https://celebmafia.com/wp-content/uploads/2015/03/ariana-grande-photoshoot-in-atlanta-march-2015_1.jpg",
+        "info": "An American pop and R&B artist known for her powerful vocals and chart-topping hits.",
+        "social_media": "https://www.instagram.com/arianagrande/"
+    },
+    {
+        "id": 11,
+        "name": "Bruno Mars",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-134315104.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
+        "info": "An American singer and multi-instrumentalist known for his retro-inspired pop and funk music.",
+        "social_media": "https://www.instagram.com/brunomars/"
+    },
+    {
+        "id": 12,
+        "name": "Lady Gaga",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/lady-gaga-attends-the-64th-annual-grammy-awards-at-mgm-news-photo-1727455427.jpg?crop=1.00xw:0.667xh;0,0.0477xh&resize=640:*",
+        "info": "An American singer-songwriter and actress known for her versatility and theatrical performances.",
+        "social_media": "https://www.instagram.com/ladygaga/"
+    },
+    {
+        "id": 13,
+        "name": "Harry Styles",
+        "image": "https://cdn.britannica.com/07/222807-050-50D5DC99/English-singer-songwriter-actor-Harry-Styles-2020.jpg",
+        "info": "A British singer and actor, former member of One Direction, now a successful solo artist.",
+        "social_media": "https://www.instagram.com/harrystyles/"
+    },
+    {
+        "id": 14,
+        "name": "Rihanna",
+        "image": "https://static.independent.co.uk/2024/11/04/22/gettyimages-2170616237-594x594.jpg?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp",
+        "info": "A Barbadian singer, actress, and businesswoman, celebrated for her influence in pop and R&B.",
+        "social_media": "https://www.instagram.com/badgalriri/"
+    },
+    {
+        "id": 15,
+        "name": "Justin Bieber",
+        "image": "https://media.glamour.com/photos/6053b199e85026602fd7cdfa/master/w_2560%2Cc_limit/1230371382",
+        "info": "A Canadian singer known for his journey from teenage stardom to a global pop phenomenon.",
+        "social_media": "https://www.instagram.com/justinbieber/"
+    },
+    {
+        "id": 16,
+        "name": "Shawn Mendes",
+        "image": "https://people.com/thmb/tP2spP3Trgu9ugVqutyrWyRmp1A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/shawn-mendes-tout-102324-f93fc9e920494377898b35a6bdb13a9c.jpg",
+        "info": "A Canadian singer-songwriter famous for his catchy pop songs and heartfelt ballads.",
+        "social_media": "https://www.instagram.com/shawnmendes/"
+    }
+]

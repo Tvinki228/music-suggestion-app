@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+h1 span {
+    color: rgb(220, 78, 17);
+}
+
+.home-image {
+    width: 100%;
+}
+
+.home-text {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
