@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import bgLogo from "../../assets/home-logo.webp";
 import "./Home.css";
 
@@ -13,7 +13,7 @@ function Home() {
                 <img className="home-image" src={bgLogo} alt="home-image" />
             </div>
             <p className="home-text">
-                Explore some <Link to="/music">artists!</Link>
+                Explore some <NavLink to="/music">artists!</NavLink>
             </p>
         </div>
     );
