@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import bgLogo from "../../assets/home-logo.webp";
 import "./Home.css";
 
@@ -12,7 +13,7 @@ function Home() {
                 <img className="home-image" src={bgLogo} alt="home-image" />
             </div>
             <p className="home-text">
-                Explore some <a href="/music">artists!</a>{" "}
+                Explore some <Link to="/music">artists!</Link>
             </p>
         </div>
     );
